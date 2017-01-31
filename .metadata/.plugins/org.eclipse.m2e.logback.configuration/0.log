@@ -1,0 +1,36 @@
+2017-01-27 17:12:07,050 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-01-27 17:22:37,765 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-01-30 17:25:55,482 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-01-30 17:31:16,407 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SithAutomationTraining:TapQaProject:0.0.1-SNAPSHOT @ C:\Eclipse\SithAutomationTraining\TapQaProject\pom.xml.
+2017-01-30 17:31:21,486 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 17:31:21,487 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Eclipse\SithAutomationTraining\TapQaProject\src\main\resources
+2017-01-30 17:31:21,491 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 17:31:21,491 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Eclipse\SithAutomationTraining\TapQaProject\src\test\resources
+2017-01-30 17:31:23,646 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 17:31:23,646 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Eclipse\SithAutomationTraining\TapQaProject\src\main\resources
+2017-01-30 17:31:23,648 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 17:31:23,649 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Eclipse\SithAutomationTraining\TapQaProject\src\test\resources
+2017-01-30 17:31:54,641 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 17:31:54,641 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Eclipse\SithAutomationTraining\TapQaProject\src\main\resources
+2017-01-30 17:31:54,646 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 17:31:54,647 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Eclipse\SithAutomationTraining\TapQaProject\src\test\resources
+2017-01-30 17:31:55,847 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 17:31:55,847 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Eclipse\SithAutomationTraining\TapQaProject\src\main\resources
+2017-01-30 17:31:55,850 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 17:31:55,850 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Eclipse\SithAutomationTraining\TapQaProject\src\test\resources
+2017-01-30 17:34:01,845 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 17:34:01,845 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Eclipse\SithAutomationTraining\TapQaProject\src\main\resources
+2017-01-30 17:34:01,847 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 17:34:01,847 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Eclipse\SithAutomationTraining\TapQaProject\src\test\resources
+2017-01-30 17:34:02,931 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 17:34:02,931 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Eclipse\SithAutomationTraining\TapQaProject\src\main\resources
+2017-01-30 17:34:02,934 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 17:34:02,935 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Eclipse\SithAutomationTraining\TapQaProject\src\test\resources
+2017-01-30 17:34:08,686 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 17:34:08,686 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Eclipse\SithAutomationTraining\TapQaProject\src\main\resources
+2017-01-30 17:34:08,691 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 17:34:08,692 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Eclipse\SithAutomationTraining\TapQaProject\src\test\resources
+2017-01-30 17:34:09,740 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 17:34:09,741 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Eclipse\SithAutomationTraining\TapQaProject\src\main\resources
+2017-01-30 17:34:09,746 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-30 17:34:09,747 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Eclipse\SithAutomationTraining\TapQaProject\src\test\resources

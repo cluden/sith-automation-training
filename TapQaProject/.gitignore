@@ -3,6 +3,5 @@ target/
 log/
 
 # Eclipse
-.project
 .metadata
 .settings/

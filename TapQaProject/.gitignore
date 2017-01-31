@@ -1,2 +1,8 @@
-target
-*.settings
+# Maven
+target/
+log/
+
+# Eclipse
+.project
+.metadata
+.settings/

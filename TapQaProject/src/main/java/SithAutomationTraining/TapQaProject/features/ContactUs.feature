@@ -24,9 +24,10 @@ Feature: tapQA Contact Us page
   Scenario: Request to be contacted
     Given I go to the tapqa homepage
     And I click on the "Contact Us" header link
-
-    Given I go to the Contact Us page
-    When I enter in the Name field
-    
-    Then I go to a confirmation page
-    
+    When I enter "Chong Xiong" in the Name field
+    When I enter "cxiong@tapqa.com" in the Email field
+    When I enter "612-444-4545" in the Phone field
+    When I select "Other" in the How Did You Hear About Us dropdown
+    When I enter "Can you send me an email" in the Message field
+    When I click on the Submit button   
+    Then I get a confirmation message

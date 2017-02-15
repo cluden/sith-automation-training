@@ -9,9 +9,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 
-public class tapQaHomePageSteps {
+public class HomePageSteps {
 
-	private static WebDriver driver = null;
+	public static WebDriver driver = null;
 
 	 @Given("^I go to the tapqa homepage$")
 	    public void i_go_to_the_tapqa_homepage() throws Throwable {
@@ -26,11 +26,7 @@ public class tapQaHomePageSteps {
 			// exception
 
 			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-
-			// Launch the Online Store Website
-
-			driver.get("http://www.tapqa.com");   
-		 
+			driver.get("http://www.tapqa.com");		 
 	    }
 	    
 	 @And("^I click on the \"(Solutions|About|Explore|Careers|Contact Us)\" header link$")

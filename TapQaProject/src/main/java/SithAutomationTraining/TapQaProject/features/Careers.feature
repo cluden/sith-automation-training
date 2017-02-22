@@ -20,6 +20,10 @@
 Feature: Careers Page
   Testing functionality of the Careers page
 
+Background:
+	Given I start a "Chrome" browser
+	#OR substitute w/ Firefox
+
   @tag1
   Scenario: Verifying Check box
     Given I go to the tapqa homepage

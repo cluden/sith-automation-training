@@ -16,11 +16,13 @@
 #""
 ## (Comments)
 #Sample Feature Definition Template
-@tag
-Feature: Title of your feature
-  I want to use this template for my feature file
+@Careers
+Feature: Careers Page
+  Testing functionality of the Careers page
 
   @tag1
-  Scenario: Title of your scenario
- 		Given I go to the tapqa homepage
+  Scenario: Verifying Check box
+    Given I go to the tapqa homepage
     And I click on the "Careers" header link
+    When I enter "TapQA" in the Keywords field
+		Then the text "TapQA" is displayed in Keywords field

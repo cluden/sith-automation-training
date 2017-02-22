@@ -20,6 +20,10 @@
 Feature: tapQA Contact Us page
   Testing functionality of the Contact Us
 
+Background:
+	Given I start a "Chrome" browser
+	#OR substitute w/ Firefox
+
   @tag1
   Scenario: Request to be contacted
     Given I go to the tapqa homepage

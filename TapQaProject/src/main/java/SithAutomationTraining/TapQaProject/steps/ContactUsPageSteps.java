@@ -9,7 +9,7 @@ import cucumber.api.java.en.When;
 import junit.framework.Assert;
 
 public class ContactUsPageSteps {
-	private static WebDriver driver = HomePageSteps.driver;
+	private WebDriver driver = Hooks.driver;
 
 	@When("^I enter \"([^\"]*)\" in the Name field$")
 	public void i_enter_something_in_the_name_field(String fullName) throws Throwable {

@@ -5,3 +5,4 @@ log/
 # Eclipse
 .metadata
 .settings/
+.recommenders/
